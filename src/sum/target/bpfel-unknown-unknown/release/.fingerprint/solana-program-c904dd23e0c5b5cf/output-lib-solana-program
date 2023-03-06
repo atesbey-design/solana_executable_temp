@@ -1,0 +1,2 @@
+Error: Function _ZN14solana_program4vote5state9VoteState11deserialize17h2baa6eb1fd59428fE Stack offset of 6344 exceeded max offset of 4096 by 2248 bytes, please minimize large stack variables
+Error: Function _ZN229_$LT$solana_program..vote..state..vote_state_0_23_5.._..$LT$impl$u20$serde..de..Deserialize$u20$for$u20$solana_program..vote..state..vote_state_0_23_5..VoteState0_23_5$GT$..deserialize..__Visitor$u20$as$u20$serde..de..Visitor$GT$9visit_seq17h4331cb677b003005E Stack offset of 5752 exceeded max offset of 4096 by 1656 bytes, please minimize large stack variables
